@@ -1,6 +1,6 @@
 # Alarm-Clock
 
-I created This project using Vanilla Javascript, HTML and CSS.
+I created This project using Vanilla Javascript, HTML, CSS and Bootstrap.
 
 I created a design of mobile alarm view.
 
